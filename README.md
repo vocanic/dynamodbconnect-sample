@@ -1,2 +1,2 @@
-# dynamodbconnect-sample
-Sample Application for dynamodbconnect lib
+# Sample Application for Vocanic Dynamo DB
+

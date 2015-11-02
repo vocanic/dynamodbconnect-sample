@@ -1,5 +1,7 @@
 {
   "require": {
-    "vocanic/dynamodbconnect": "1.0.0"
+    "vocanic/dynamodbconnect": "1.0.2",
+    "aws/aws-sdk-php": "3.9.2",
+    "phpunit/phpunit": "~4.0"
   }
 }
