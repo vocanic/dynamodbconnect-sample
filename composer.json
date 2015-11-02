@@ -1,0 +1,5 @@
+{
+  "require": {
+    "vocanic/dynamodbconnect": "1.0.0"
+  }
+}
